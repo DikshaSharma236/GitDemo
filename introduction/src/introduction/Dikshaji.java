@@ -8,7 +8,7 @@ public class Dikshaji {
 		// TODO Auto-generated method stub
 		
 		
-		System.setProperty("webdriver.chrome.driver", null);
+		System.setProperty("webdriver.chrome.driver", "gdgagdadhaggdg");
 
 	}
 
