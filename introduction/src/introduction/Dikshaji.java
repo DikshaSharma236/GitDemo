@@ -13,7 +13,7 @@ public class Dikshaji {
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\work\\chromedriver.exe");
 		WebDriver  driver=new ChromeDriver();
-		driver.get("parivesh.com");
+		driver.get("parivesh.comhasdhaskdhasjd");
 		
 
 	}
